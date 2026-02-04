@@ -10,7 +10,7 @@ let department = [
 ];
 
 app.get("/",(req,res) => {
-    res.send("<h1><center> Mr.Nattases Ponoi </center></h1>");
+    res.send("<h1><center> Mr.Chonnapat Thongton </center></h1>");
 });
 
 app.get("/department", (req, res) => {
